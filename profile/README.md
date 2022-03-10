@@ -29,7 +29,7 @@ es 👉 `commit -m 'fix(): bug bla bla bla'`
 
 </details>
 <details>
-<summary><b>Come cotribuire </b></summary>
+<summary><b>Workflow </b></summary>
 
 Seguire  [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) o  [Git flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=Gitflow%20is%20a%20legacy%20Git,software%20development%20and%20DevOps%20practices.)
 
